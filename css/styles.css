@@ -1,0 +1,360 @@
+
+.button-section{
+    border-radius: 50px;
+}
+.container-fluid{
+    margin: 0px;
+    padding: 0px;
+}
+.borderline{
+    width: 10%;
+}
+/* easily contact in header */
+
+.contact-details{
+    margin: 0px;
+    padding: 0px;
+}
+.contact-details i{
+    margin:1%;
+}
+#marginleft{
+    margin-left: 63%;
+}
+
+/* navigation division */
+#navsection{
+    padding: 0px;
+    width: 100%;
+}
+.logoimage{
+    height: 70px;
+}
+#navallocation{
+    margin-right: 39%;
+}
+.hoverstyle:hover{
+    text-decoration: underline;
+    color: red;
+    transition: all .3s ease-out 0s;
+}
+
+/* welcome section  */
+
+.welcome-section{
+    background-image: url(../images/backgroundimage.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+    filter: brightness(90%);
+    background-attachment:fixed;
+}
+.welcome{
+    padding-top: 10%;
+    line-height: 1;
+    color: #005792;
+}
+.welcome button{
+    margin-top: 2%;
+    padding:10px;
+}
+
+/* why choose me division in welcome section  */
+
+.whychoosemedilab{
+    width: 85%;
+    margin:auto;
+    margin-top: 80px;
+}
+.section-1{
+    text-align: center;
+    background-color: #77acf1;
+    box-shadow: 0px 0px 5px 0px;
+    border-radius: 10px;
+    padding: 50px 40px;
+}
+.section-2{
+    text-align: center;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+    padding: 40px 30px;
+    height: 320px;  
+    margin: 20px;
+    margin-top: 7%;
+}
+
+/* video section */
+#videosection{
+    margin-top: 3%;
+}
+
+#videosection img{
+    height: 500px;
+}
+.docimage{
+    padding: 0px;
+}
+.fvicon{
+    font-size: 32px;
+    border: solid blue 1px;
+    border-radius: 100%;
+    padding: 15px;
+}
+.fvicon:hover{
+    background-color: blue;
+    border-radius: 100%;
+    color: white;
+    transition: all .3s ease-out 0s;
+}
+
+/* count section */
+#countid{
+    background-color: #f7fcfc;
+    height: 230px;
+}
+#countid i{
+    font-size: 23px;
+}
+.countsection{
+    padding: 0px;
+    margin: 0px;
+    width: 80%;
+    margin: auto;
+}
+.count-1{
+    text-align: center;
+    margin: 5% 4%;
+    background-color: white;
+    box-shadow: 0px 2px 5px;
+}
+.iconfa {
+    position: absolute;
+    margin-top: -25px;
+    margin-left: -18px;
+    font-size: 30px;
+    color: white;
+    background-color: blue;
+    padding: 10px 12px;
+    border-radius: 100%;
+}
+.marginthing{
+    margin-top:30px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+/* services section */
+#servicesid{
+    margin-top: 4%;
+}
+
+.centerline{
+    text-align: center;
+
+}
+.mainservice{
+    margin-left: 10%;
+}
+.servicefirstrow{
+    border:solid #c0e6f4 1px;
+    text-align: center;
+    margin: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.servicefirstrow:hover{
+    color:White;
+    background-color: #3c6782;
+    transition: all .3s ease-out 0s;
+}
+.servicefirstrow i{
+    font-size: 40px;
+}
+.fav-icon{
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    padding: 17px;
+    transform-style: preserve-3d;
+    border-radius: 5px;
+    transition: all .3s ease-out 0s;
+}
+.fav-icon:hover{
+    background-color: white; 
+    color: blue;
+    padding: 17px;
+    transition: all .3s ease-out 0s;
+}
+
+
+/* appointment section */
+#appointmentsection{
+    text-align: center;
+    margin-top: 4%;
+    background-color: #f7fcfc;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    margin-bottom: 2%;
+}
+.appointment{
+    margin: auto;
+}
+.formsection{
+    width: 100%;
+}
+.messagebox{
+    width: 97%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+/* department section */
+#departmentsection{
+    text-align: center;
+}
+.department{
+    margin: 0px;
+    padding: 0px;
+}
+.list{
+    list-style: none;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+}
+.list li{
+    padding-left: 10px;
+}
+.verticalborder{
+    border-left:solid grey 1px;
+    height: auto;
+}
+.cardiology{
+    text-align: left;
+}
+.textstyle{
+    font-style: italic;
+}
+
+/* doctor list section */
+#doctorsection{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding-bottom: 4%;
+}
+.d-1{
+    padding: 0px;
+    padding-bottom: 50px;
+}
+.d1image{
+    border-radius: 100% ;
+    margin-left: 30px;
+}
+.txtalign{
+    width: 90%;
+    margin: auto;
+}
+
+.bg-shawdow{
+    padding: 0px;
+    background-color: white;
+    box-shadow: 1px 1px 3px 1px;
+}
+.maindoctordiv{
+    margin: auto;
+    margin-top: 4%;
+    margin-top: 4;
+    width: 95%;
+}
+.bg-2{
+    margin-left: 3%;
+}
+.marginadjust{
+    margin-top: 40px;
+}
+
+/* gallery section  */
+#gallerysection{
+    text-align: center;
+    margin-bottom: 3%;
+    
+}
+.gallery{
+    width: 80%;
+    margin: auto;
+}
+.gallerysec{
+    margin-top: 4px;
+}
+
+/* contact section */
+#contactsection{
+    text-align: center;
+    margin-bottom: 3%;
+}
+.map{
+    width: 100%;
+}
+
+/* location contact section */
+#sendmessagesection{
+    margin-bottom: 3%;
+}
+.location i
+{
+    font-size: 30px;
+    margin: 3px;
+    margin-top:10px;
+}
+.location h5{
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-left: 7%
+}
+.location p{
+    margin-left: 25px ;
+    margin-left: 13%;
+}
+.email i{
+    font-size: 30px;
+    margin: 3px;
+    margin-top:10px;
+}
+.email h5{
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-left: 4%;
+}
+.email p{
+    margin-top: 10%;
+    margin-left: -14%;
+}
+.Call h5{
+    margin-left: 6%;
+}
+.btnmargin{
+    margin-left: 45%;
+    padding: 7px 20px;
+}
+
+/* footer section */
+#footersection{
+    background-color: #f7fcfc;
+}
+.footersec{
+    width: 80%;
+    margin: auto;
+}
+.copyright {
+    margin-top: 20px;
+}
+.social {
+    margin-left: 70%;
+    margin-top: 3%;
+}
